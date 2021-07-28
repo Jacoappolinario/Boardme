@@ -2,7 +2,7 @@
 
 
 ## Sobre
-Boarme é uma API de locação de barcos.
+Boardme é uma API de locação de barcos.
 ## Instalação
 Você precisa das seguintes ferramentas instaladas para executar este projeto:
 
